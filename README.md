@@ -1,4 +1,4 @@
-### Olá, Meu nome é Raul Marciano e bem vindo ao meu perfil do GitHub 👋:smile:
+### Olá, meu nome é Raul Marciano e bem vindo ao meu perfil do GitHub 👋:smile:
 
 <div align="center">
 <a>
