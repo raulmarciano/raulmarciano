@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, Sou o Raul Marciano e bem vindo ao meu perfil do GitHub 👋:smile:
 
-<!--
-**raulmarciano/raulmarciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=raulmarciano&show_icons=true&theme=dracula"/>
+</a>
+  
+<br />
+<br />
 
-Here are some ideas to get you started:
+[![HitCount](http://hits.dwyl.com/raulmarciano/raulmarcianov.svg)](http://hits.dwyl.com/raulmarciano/raulmarcianov)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
