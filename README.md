@@ -9,6 +9,4 @@
 <br />
 <br />
 
-[![HitCount](http://hits.dwyl.com/raulmarciano/raulmarcianov.svg)](http://hits.dwyl.com/raulmarciano/raulmarcianov)
-
 <div align="center">
