@@ -41,6 +41,7 @@ I live in Brazil
 - CQRS
 - Microservices
 - TDD
+- Clean Code
 
 ### Statitics
 
