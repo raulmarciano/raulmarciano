@@ -2,7 +2,7 @@
 
 A .Net developer, I love Backend 
 
-I currently work at [Fagron Tech](https://www.fagrontech.com.br/) as Fullstack Developer
+I currently work at [Fagron Tech](https://www.fagrontech.com.br/) as a Fullstack Developer
 
 I live in Brazil
 
