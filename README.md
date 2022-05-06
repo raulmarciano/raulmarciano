@@ -15,7 +15,7 @@ I live in Brazil
   - Entity Framework
 - Database
   - SQL Server
-  - PostgreSQL0
+  - PostgreSQL
   - Oracle
   - MongoDB
   - Redis
