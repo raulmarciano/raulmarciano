@@ -36,12 +36,12 @@ I live in Brazil
 
 - English
 - .NET 6
-- AngularJS
 - Azure
 - CQRS
 - Microservices
 - TDD
 - Clean Code
+- GoLang
 
 ### Statitics
 
