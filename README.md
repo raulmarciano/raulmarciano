@@ -10,20 +10,23 @@ I live in Brazil
 
 - Backend
   - .NET Framework
-  - .NET Core and .NET
+  - .NET Core and .NET +5
   - API's Restful
-  - Entity Framework
+  - Database
+    - ORM
+      - Entity Framework
+      - Dapper
+    - ADO
 - Database
   - SQL Server
   - PostgreSQL
   - Oracle
   - MongoDB
-  - Redis
-- Frontend
-  - JavaScript
-  - TypeScript
-  - Angular
-- Enviroment Windows and Linux
+  - Cache
+    - Redis
+- OS 
+  - Windows
+  - Linux
 - Architecture
   - MVC
   - MVVM
@@ -41,8 +44,6 @@ I live in Brazil
 - Microservices
 - TDD
 - Clean Code
-- GoLang
-- gRPC architecture
 
 ### Statitics
 
