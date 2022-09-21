@@ -26,7 +26,7 @@ I live in Brazil
     - Redis
 - OS 
   - Windows
-  - Linux
+  - Linux ❤️
 - Architecture
   - MVC
   - MVVM
