@@ -2,7 +2,7 @@
 
 A .Net developer, I love Backend 
 
-I currently work at [Fagron Tech](https://www.fagrontech.com.br/) as a Fullstack Developer
+I currently work at [BRQ](https://www.brq.com/) as a Backend Developer
 
 I live in Brazil
 
@@ -37,6 +37,7 @@ I live in Brazil
 
 ### Current Study
 
+- AWS
 - English
 - .NET 6
 - Azure
