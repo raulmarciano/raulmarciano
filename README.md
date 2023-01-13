@@ -39,7 +39,7 @@ I live in Brazil
 
 - AWS
 - English
-- .NET 6
+- .NET 6/7
 - Azure
 - CQRS
 - Microservices
