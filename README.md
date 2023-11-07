@@ -2,7 +2,7 @@
 
 A .Net developer, I love Backend 
 
-I currently work at [BRQ](https://www.brq.com/) as a Backend Developer
+I currently work at [BRQ](https://www.brq.com/) allocated at [BTG Pactual](https://www.btgpactual.com/) Bank as a Backend Developer
 
 I live in Brazil
 
@@ -10,7 +10,7 @@ I live in Brazil
 
 - Backend
   - .NET Framework
-  - .NET Core and .NET +5
+  - .NET Core and .NET +7
   - API's Restful
   - Database
     - ORM
@@ -27,22 +27,23 @@ I live in Brazil
 - OS 
   - Windows
   - Linux ❤️
-- Architecture
+- Architecture/Pattern
   - MVC
   - MVVM
   - DDD
   - Pub/Sub
+  - Microservices
 - Xamarin
 - RabbitMQ
+- AWS
+
 
 ### Current Study
 
-- AWS
 - English
-- .NET 6/7
+- .NET 8
 - Azure
 - CQRS
-- Microservices
 - TDD
 - Clean Code
 
