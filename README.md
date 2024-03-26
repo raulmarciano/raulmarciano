@@ -1,8 +1,8 @@
-### Hello, my name is Raul Marciano👋:smile::yum:
+t### Hello, my name is Raul Marciano👋:smile::yum:
 
 A .Net developer, I love Backend 
 
-I currently work at [BRQ](https://www.brq.com/) allocated at [BTG Pactual](https://www.btgpactual.com/) Bank as a Backend Developer
+I currently work at [Avanade](https://www.avanade.com/en) allocated at [Itaú](https://www.itau.com.br/) Bank as a Backend Developer
 
 I live in Brazil
 
